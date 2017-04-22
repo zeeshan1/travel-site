@@ -3,7 +3,9 @@
 		margin-bottom: 20px;
 		font-size: 1.12rem;
 		line-height: 1.8;
-
+	}
+ 	p > a{
+		color: $mainOrange;
 	}
 	
 }
