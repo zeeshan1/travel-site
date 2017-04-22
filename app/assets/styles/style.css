@@ -9,4 +9,6 @@
 @import "madules/_headline";
 @import "madules/_row";
 @import "madules/_generic-style-container";
+@import "madules/_section-title";
+@import "madules/_feature-item";
 

@@ -1,12 +1,17 @@
 .generic-style-container{
 	p{
-		margin-bottom: 20px;
+		margin:0 0  1.8rem 0;
 		font-size: 1.12rem;
+<<<<<<< HEAD
 <<<<<<< HEAD
 		line-height: 1.8;	
 =======
 		line-height: 1.8;
 >>>>>>> 8ed4ca80f506739de5a86ea190866a8aaedcd745
+=======
+		line-height: 1.5;
+		font-weight: 300;
+>>>>>>> our-features
 	}
  	p > a{
 		color: $mainOrange;
