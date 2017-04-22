@@ -2,7 +2,11 @@
 	p{
 		margin-bottom: 20px;
 		font-size: 1.12rem;
+<<<<<<< HEAD
 		line-height: 1.8;	
+=======
+		line-height: 1.8;
+>>>>>>> 8ed4ca80f506739de5a86ea190866a8aaedcd745
 	}
  	p > a{
 		color: $mainOrange;
